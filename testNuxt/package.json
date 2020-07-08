@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@nuxt/typescript": "^2.8.1",
-    "@nuxt/typescript-build": "^1.0.3"
+    "@nuxt/typescript-build": "^1.0.3",
+    "vuex-module-decorators": "^0.17.0"
   }
 }

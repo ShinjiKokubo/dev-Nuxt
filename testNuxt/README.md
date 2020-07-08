@@ -13,6 +13,9 @@ $ yarn dev
 $ yarn build
 $ yarn start
 
+#or
+$ yarn nuxt
+
 # generate static project
 $ yarn generate
 ```
